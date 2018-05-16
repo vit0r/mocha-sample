@@ -1,0 +1,4 @@
+--require should
+--require expect
+--reporter dot
+--recursive
